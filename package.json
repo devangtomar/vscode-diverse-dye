@@ -24,9 +24,12 @@
     "type": "git",
     "url": "https://github.com/devangtomar/vscode-diverse-dye.git"
   },
-  "homepage": "https://github.com/devangtomar/vscode-diverse-dye#readme"
+  "homepage": "https://github.com/devangtomar/vscode-diverse-dye#readme",
   "categories": [
-    "Other"
+    "Other",
+    "Themes",
+    "Visualization",
+    "Extension Packs",
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
