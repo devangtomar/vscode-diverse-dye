@@ -41,6 +41,83 @@
       }
     ]
   },
+  "themes": [
+    {
+      "label": "Sakura",
+      "uiTheme": "vs",
+      "path": "./themes/sakura-theme.json"
+    },
+    {
+      "label": "Sakura Blossom",
+      "uiTheme": "vs",
+      "path": "./themes/sakura-blossom-theme.json"
+    },
+    {
+      "label": "Berry Blast",
+      "uiTheme": "vs",
+      "path": "./themes/berry-blast-theme.json"
+    },
+    {
+      "label": "Celestial Charm",
+      "uiTheme": "vs",
+      "path": "./themes/celestial-charm-theme.json"
+    },
+    {
+      "label": "Hot Pink",
+      "uiTheme": "vs",
+      "path": "./themes/hot-pink-theme.json"
+    },
+    {
+      "label": "Navy Nights",
+      "uiTheme": "vs",
+      "path": "./themes/navy-nights-theme.json"
+    },
+    {
+      "label": "Kryptonite",
+      "uiTheme": "vs",
+      "path": "./themes/kryptonite-theme.json"
+    },
+    {
+      "label": "Power Low Purple",
+      "uiTheme": "vs",
+      "path": "./themes/power-low-purple-theme.json"
+    },
+    {
+      "label": "Ultraviolet",
+      "uiTheme": "vs",
+      "path": "./themes/ultraviolet-theme.json"
+    },
+    {
+      "label": "Purplexed Purple",
+      "uiTheme": "vs",
+      "path": "./themes/purplexed-theme.json"
+    },
+    {
+      "label": "Neon",
+      "uiTheme": "vs",
+      "path": "./themes/neon-theme.json"
+    },
+    {
+      "label": "GitLab Theme",
+      "uiTheme": "vs",
+      "path": "./themes/gitlab-theme.json"
+    },
+    {
+      "label": "Fallout",
+      "uiTheme": "vs",
+      "path": "./themes/fallout-theme.json"
+    },
+    {
+      "label": "Chocolate Dessert",
+      "uiTheme": "vs",
+      "path": "./themes/chocolate-dessert-theme.json"
+    },
+    {
+      "label": "Arabian theme",
+      "uiTheme": "vs",
+      "path": "./themes/arabian-theme.json"
+    }
+  ],
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
