@@ -5,7 +5,7 @@
   "author": {
     "name": "Devang Tomar",
     "email": "devangtomar123@gmail.com",
-    "url": "https://github.com/devangtomar",
+    "url": "https://github.com/devangtomar"
   },
   "keywords": [
     "vsc",
@@ -29,7 +29,7 @@
     "Other",
     "Themes",
     "Visualization",
-    "Extension Packs",
+    "Extension Packs"
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
