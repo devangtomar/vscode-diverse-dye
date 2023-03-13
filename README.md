@@ -74,6 +74,20 @@ Diverse Dye is licensed under the MIT License. See the [LICENSE](LICENSE) file f
 
 If you have any questions or feedback, feel free to contact the author at devangtomar123@gmail.com.
 
+## Useful Information
+
+To override the status bar colors, add the following to your settings JSON. (Change the colors as you see fit.)
+
+```json
+"workbench.colorCustomizations": {
+    "statusBar.background": "#333",
+    "statusBar.foreground": "#fff",
+    "statusBar.noFolderBackground": "#333",
+}
+```
+
+If you'd like to report a bug with the theme, please raise an issue with the repository.
+
 ## 💁🏻‍♀️ Support the project
 
 To show support for the project, you can
@@ -83,4 +97,4 @@ To show support for the project, you can
 - Follow me on [GitHub](https://github.com/devangtomar) and [Instagram](https://www.instagram.com/be_ayushmann/)
 <!-- - [Donate via PayPal.](https://paypal.me/devangtomar) -->
 
----
+👾 Devang.
