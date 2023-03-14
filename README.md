@@ -1,6 +1,6 @@
 </br>
 <div align="center">
-  <img src="./images/logo.jpg" alt="Diverse Dye header image" style="width: 600px; height: 250px;">
+  <img src="https://github.com/devangtomar/vscode-diverse-dye/blob/91fd021df10c8f566ae05df3308f859909b15eb7/images/logo.jpg" alt="Diverse Dye header image" style="width: 600px; height: 250px;">
 
 </br></br>
 
