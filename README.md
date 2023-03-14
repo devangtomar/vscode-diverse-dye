@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/devangtomar/vscode-diverse-dye/blob/91fd021df10c8f566ae05df3308f859909b15eb7/images/logo.jpg" alt="Diverse Dye header image" style="width: 600px; height: 250px;">
 
-</br>
+</br></br>
 
 [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/DevangTomar.vscode-diverse-dye.svg?style=for-the-badge&labelColor=000000&color=a568f9)](https://marketplace.visualstudio.com/items?itemName=DevangTomar.vscode-diverse-dye)
 [![Installs](https://img.shields.io/visual-studio-marketplace/d/DevangTomar.vscode-diverse-dye.svg?style=for-the-badge&labelColor=000000&color=a568f9)](https://marketplace.visualstudio.com/items?itemName=DevangTomar.vscode-diverse-dye)
