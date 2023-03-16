@@ -26,10 +26,32 @@
     "contrast",
     "pretty"
   ],
+  "maintainers": [
+    {
+      "email": "devangtomar123gmail.com",
+      "name": "Devang Tomar"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/devangtomar/vscode-diverse-dye/issues",
+    "email": "devangtomar123gmail.com"
+  },
   "publisher": "DevangTomar",
   "version": "0.0.3",
   "engines": {
-    "vscode": "^1.77.0"
+    "vscode": "^1.40.2",
+    "node": ">=12.4.0"
+  },
+  "galleryBanner": {
+    "color": "#00558e",
+    "theme": "dark"
+  },
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "sponsor": {
+    "url": "https://github.com/devangtomar/sponsors/vscode-diverse-dye"
   },
   "license": "MIT",
   "repository": {
