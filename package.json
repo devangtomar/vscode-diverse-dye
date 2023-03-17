@@ -67,77 +67,82 @@
   "contributes": {
     "themes": [
       {
-        "label": "Sakura",
+        "label": "Diverse Dye - Amethyst",
+        "uiTheme": "vs",
+        "path": "./themes/amethyst-theme.json"
+      },
+      {
+        "label": "Diverse Dye - Sakura",
         "uiTheme": "vs",
         "path": "./themes/sakura-theme.json"
       },
       {
-        "label": "Sakura Blossom",
+        "label": "Diverse Dye - Sakura Blossom",
         "uiTheme": "vs",
         "path": "./themes/sakura-blossom-theme.json"
       },
       {
-        "label": "Berry Blast",
+        "label": "Diverse Dye - Berry Blast",
         "uiTheme": "vs",
         "path": "./themes/berry-blast-theme.json"
       },
       {
-        "label": "Celestial Charm",
+        "label": "Diverse Dye - Celestial Charm",
         "uiTheme": "vs",
         "path": "./themes/celestial-charm-theme.json"
       },
       {
-        "label": "Hot Pink",
+        "label": "Diverse Dye - Hot Pink",
         "uiTheme": "vs",
         "path": "./themes/hot-pink-theme.json"
       },
       {
-        "label": "Navy Nights",
+        "label": "Diverse Dye - Navy Nights",
         "uiTheme": "vs",
         "path": "./themes/navy-nights-theme.json"
       },
       {
-        "label": "Kryptonite",
+        "label": "Diverse Dye - Kryptonite",
         "uiTheme": "vs",
         "path": "./themes/kryptonite-theme.json"
       },
       {
-        "label": "Power Low Purple",
+        "label": "Diverse Dye - Power Low Purple",
         "uiTheme": "vs",
         "path": "./themes/power-low-purple-theme.json"
       },
       {
-        "label": "Ultraviolet",
+        "label": "Diverse Dye - Ultraviolet",
         "uiTheme": "vs",
         "path": "./themes/ultraviolet-theme.json"
       },
       {
-        "label": "Purplexed Purple",
+        "label": "Diverse Dye - Purplexed Purple",
         "uiTheme": "vs",
         "path": "./themes/purplexed-theme.json"
       },
       {
-        "label": "Neon",
+        "label": "Diverse Dye - Neon",
         "uiTheme": "vs",
         "path": "./themes/neon-theme.json"
       },
       {
-        "label": "GitLab Theme",
+        "label": "Diverse Dye - GitLab Theme",
         "uiTheme": "vs",
         "path": "./themes/gitlab-theme.json"
       },
       {
-        "label": "Fallout",
+        "label": "Diverse Dye - Fallout",
         "uiTheme": "vs",
         "path": "./themes/fallout-theme.json"
       },
       {
-        "label": "Chocolate Dessert",
+        "label": "Diverse Dye - Chocolate Dessert",
         "uiTheme": "vs",
         "path": "./themes/chocolate-dessert-theme.json"
       },
       {
-        "label": "Arabian theme",
+        "label": "Diverse Dye - Arabian theme",
         "uiTheme": "vs",
         "path": "./themes/arabian-theme.json"
       }
