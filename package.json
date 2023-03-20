@@ -1,7 +1,7 @@
 {
   "name": "vscode-diverse-dye",
   "displayName": "Diverse Dye",
-  "description": "🎨💻✨🌈🖌️🎭 Diverse Dye is a VSC extension that adds a splash of color to your coding experience! With a diverse palette of colors to choose from, you can customize your workspace to suit your mood and express your creativity. This extension offers a variety of brushes and tools that let you paint your code with different strokes and styles. Plus, you can zoom in and out to get a closer look at your work and even annotate your code. Whether you're a designer, artist, or just someone who loves to add a pop of color to their coding, Diverse Dye is the perfect tool for you! It adds an extra bit of excitement and fun to your coding journey. 🎭",
+  "description": "Inject a splash of color into your coding with Diverse Dye! 🎉🎨💻",
   "icon": "logo.jpg",
   "author": {
     "name": "DevangTomar",
@@ -37,7 +37,7 @@
     "email": "devangtomar123gmail.com"
   },
   "publisher": "DevangTomar",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.33.0"
   },
