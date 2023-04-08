@@ -14,18 +14,23 @@ Inject a splash of color into your coding with Diverse Dye!
 <a href="" target="_blank"><img src="./images/theme.png" width = "769"/></a>
 </br>
 
-#### Sakura
+#### Purplexed
 
-<a href="" target="_blank"><img src="./images/theme.png" width = "769"/></a>
+<a href="" target="_blank"><img src="./images/screens/purplexed.png" width = "769"/></a>
+</br>
+
+#### Neon
+
+<a href="" target="_blank"><img src="./images/screens/neon.png" width = "769"/></a>
 </br>
 
 </div>
 
-Diverse Dye is a VSC extension that provides a collection of random color themes for your code editor. With Diverse Dye, you can choose from a variety of visually appealing and unique color schemes that will make your coding experience more fun and enjoyable.
+Diverse Dye is a VSC extension that provides a collection of random but eye-pleasing color themes for your code editor. With Diverse Dye, you can choose from a variety of visually appealing and unique color schemes that will make your coding experience more fun and enjoyable.
 
 ## 🎉 Features
 
-- A collection of random color themes to choose from.
+- A collection of random but eye-pleasing color themes to choose from.
 - Easy installation and setup.
 - Customizable options to fit your preferences.
 - Regular updates with new color schemes added.
