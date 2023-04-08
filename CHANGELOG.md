@@ -18,4 +18,14 @@ All notable changes to this project will be documented in this file.
 
 - Fixed a bug where some color themes were not loading properly.
 
-[Unreleased]: https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/compare/v1.0.0...HEAD
+## [0.0.3] - 2023-04-06
+
+### Added
+
+- Added Sakura and Neon themes.
+
+### Changed
+
+- Updated the README with more details about the extension.
+
+[Unreleased]: https://github.com/devangtomar/vscode-diverse-dye/compare/v0.0.3...HEAD
