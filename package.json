@@ -64,8 +64,6 @@
     "Visualization",
     "Extension Packs"
   ],
-  "activationEvents": [],
-  "main": "./out/extension.js",
   "contributes": {
     "themes": [
       {
