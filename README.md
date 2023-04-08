@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/devangtomar/vscode-diverse-dye/blob/91fd021df10c8f566ae05df3308f859909b15eb7/images/logo.jpg" alt="Diverse Dye header image" style="width: 600px; height: 250px;">
 
-</br></br>
+</br>
 
 [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/DevangTomar.vscode-diverse-dye.svg?style=for-the-badge&labelColor=000000&color=a568f9)](https://marketplace.visualstudio.com/items?itemName=DevangTomar.vscode-diverse-dye)
 [![Installs](https://img.shields.io/visual-studio-marketplace/d/DevangTomar.vscode-diverse-dye.svg?style=for-the-badge&labelColor=000000&color=a568f9)](https://marketplace.visualstudio.com/items?itemName=DevangTomar.vscode-diverse-dye)
@@ -12,17 +12,17 @@ Inject a splash of color into your coding with Diverse Dye! 🎉🎨💻
 
 #### Sakura
 
-<a href="" target="_blank"><img src="./images/screens/sakura.png" width = "769"/></a>
+<a href="" target="_blank"><img src="https://github.com/devangtomar/vscode-diverse-dye/blob/main/images/screens/sakura.png" width = "769"/></a>
 </br>
 
 #### Purplexed
 
-<a href="" target="_blank"><img src="./images/screens/purplexed.png" width = "769"/></a>
+<a href="" target="_blank"><img src="https://github.com/devangtomar/vscode-diverse-dye/blob/main/images/screens/purplexed.png" width = "769"/></a>
 </br>
 
 #### Neon
 
-<a href="" target="_blank"><img src="./images/screens/neon.png" width = "769"/></a>
+<a href="" target="_blank"><img src="https://github.com/devangtomar/vscode-diverse-dye/blob/main/images/screens/neon.png" width = "769"/></a>
 </br>
 
 [![Download](https://img.shields.io/static/v1.svg?label=Download&message=VS%20Code&style=for-the-badge&labelColor=000000&color=a568f9)](https://code.visualstudio.com/download)
