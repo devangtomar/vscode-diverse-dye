@@ -4,10 +4,10 @@
 </br>
 
 [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/DevangTomar.vscode-diverse-dye.svg?style=for-the-badge&labelColor=000000&color=a568f9)](https://marketplace.visualstudio.com/items?itemName=DevangTomar.vscode-diverse-dye)
-[![Installs](https://img.shields.io/visual-studio-marketplace/d/DevangTomar.vscode-diverse-dye.svg?style=for-the-badge&labelColor=000000&color=a568f9)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
-[![Rating](https://img.shields.io/visual-studio-marketplace/stars/shubham-saudolla.lilac.svg?style=for-the-badge&labelColor=000000&color=a568f9)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
+[![Installs](https://img.shields.io/visual-studio-marketplace/d/DevangTomar.vscode-diverse-dye.svg?style=for-the-badge&labelColor=000000&color=a568f9)](https://marketplace.visualstudio.com/items?itemName=DevangTomar.vscode-diverse-dye)
+[![Rating](https://img.shields.io/visual-studio-marketplace/stars/shubham-saudolla.lilac.svg?style=for-the-badge&labelColor=000000&color=a568f9)](https://marketplace.visualstudio.com/items?itemName=DevangTomar.vscode-diverse-dye)
 
-Inject a splash of color into your coding with Diverse Dye!
+Inject a splash of color into your coding with Diverse Dye! 🖌️🌈
 
 #### Sakura
 
