@@ -39,7 +39,7 @@
   "publisher": "DevangTomar",
   "version": "0.0.7",
   "engines": {
-    "vscode": "^1.77.0"
+    "vscode": "^1.33.0"
   },
   "galleryBanner": {
     "color": "#d2afff",
