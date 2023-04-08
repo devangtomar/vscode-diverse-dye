@@ -24,7 +24,10 @@ Inject a splash of color into your coding with Diverse Dye!
 <a href="" target="_blank"><img src="./images/screens/neon.png" width = "769"/></a>
 </br>
 
+[![Download](https://img.shields.io/static/v1.svg?label=Download&message=VS%20Code&style=for-the-badge&labelColor=000000&color=a568f9)](https://code.visualstudio.com/download)
 </div>
+
+---
 
 Diverse Dye is a VSC extension that provides a collection of random but eye-pleasing color themes for your code editor. With Diverse Dye, you can choose from a variety of visually appealing and unique color schemes that will make your coding experience more fun and enjoyable.
 
@@ -34,6 +37,16 @@ Diverse Dye is a VSC extension that provides a collection of random but eye-plea
 - Easy installation and setup.
 - Customizable options to fit your preferences.
 - Regular updates with new color schemes added.
+
+## 🐰 Easy Installation
+
+To install the color theme, just use the extensions tab within VS Code and search for 'Diverse Dye'.
+
+Once installed, themes can be switched using the menu item `Code -> Preferences -> Color Theme`.
+
+## ⚙️ Manual Installation
+
+Clone the repository into `~/.vscode/extensions` and restart the editor.
 
 ## 🚀 Getting Started
 
@@ -60,3 +73,14 @@ Diverse Dye is licensed under the MIT License. See the [LICENSE](LICENSE) file f
 ## 📧 Contact
 
 If you have any questions or feedback, feel free to contact the author at devangtomar123@gmail.com.
+
+## 💁🏻‍♀️ Support the project
+
+To show support for the project, you can
+
+- [Star the repository.](https://github.com/devangtomar/vscode-diverse-dye)
+- [Give the theme 5 stars.](https://marketplace.visualstudio.com/items?itemName=DevangTomar.vscode-diverse-dye)
+- Follow me on [GitHub](https://github.com/devangtomar) and [Instagram](https://www.instagram.com/be_ayushmann/)
+<!-- - [Donate via PayPal.](https://paypal.me/devangtomar) -->
+
+---
