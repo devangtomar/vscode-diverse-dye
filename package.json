@@ -42,7 +42,7 @@
     "vscode": "^1.77.0"
   },
   "galleryBanner": {
-    "color": "#00558e",
+    "color": "#d2afff",
     "theme": "dark"
   },
   "extensionKind": [
