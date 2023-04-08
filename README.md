@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/1-logo-full.jpg" alt="Diverse Dye header image" style="width: 600px; height: 250px;">
+  <img src="./images/logo.jpg" alt="Diverse Dye header image" style="width: 600px; height: 250px;">
 
 </br>
 
@@ -11,7 +11,7 @@ Inject a splash of color into your coding with Diverse Dye! 🎉🎨💻
 
 #### Sakura
 
-<a href="" target="_blank"><img src="./images/theme.png" width = "769"/></a>
+<a href="" target="_blank"><img src="./images/screens/sakura.png" width = "769"/></a>
 </br>
 
 #### Purplexed
