@@ -1,6 +1,27 @@
-# 🎨 Diverse Dye
+<div align="center">
+  <img src="./images/1-logo-full.jpg" alt="Diverse Dye header image" style="width: 600px; height: 250px;">
 
-Diverse Dye is a VSC extension that provides a collection of random color themes for your code editor. With Diverse Dye, you can choose from a variety of visually appealing and unique color schemes that will make your coding experience more fun and enjoyable. 
+</br>
+
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/DevangTomar.vscode-diverse-dye.svg?style=for-the-badge&labelColor=000000&color=a568f9)](https://marketplace.visualstudio.com/items?itemName=DevangTomar.vscode-diverse-dye)
+[![Installs](https://img.shields.io/visual-studio-marketplace/d/DevangTomar.vscode-diverse-dye.svg?style=for-the-badge&labelColor=000000&color=a568f9)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
+[![Rating](https://img.shields.io/visual-studio-marketplace/stars/shubham-saudolla.lilac.svg?style=for-the-badge&labelColor=000000&color=a568f9)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
+
+Inject a splash of color into your coding with Diverse Dye!
+
+#### Sakura
+
+<a href="" target="_blank"><img src="./images/theme.png" width = "769"/></a>
+</br>
+
+#### Sakura
+
+<a href="" target="_blank"><img src="./images/theme.png" width = "769"/></a>
+</br>
+
+</div>
+
+Diverse Dye is a VSC extension that provides a collection of random color themes for your code editor. With Diverse Dye, you can choose from a variety of visually appealing and unique color schemes that will make your coding experience more fun and enjoyable.
 
 ## 🎉 Features
 
