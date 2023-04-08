@@ -12,12 +12,12 @@ Inject a splash of color into your coding with Diverse Dye! 🎉🎨💻
 
 ##### Sakura
 
-<a href="" target="_blank"><img src="https://github.com/devangtomar/vscode-diverse-dye/blob/main/images/screens/sakura.png" width = "769"/></a>
+<a href="" target="_blank"><img src="./images/screens/sakura.png" width = "769"/></a>
 </br>
 
 ##### Purplexed
 
-<a href="" target="_blank"><img src="https://github.com/devangtomar/vscode-diverse-dye/blob/main/images/screens/purplexed.png" width = "769"/></a>
+<a href="" target="_blank"><img src="./" width = "769"/></a>
 </br>
 
 ##### Neon
