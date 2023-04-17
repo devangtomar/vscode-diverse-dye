@@ -30,7 +30,7 @@ All notable changes to this project will be documented in this file.
 
 [Unreleased]: https://github.com/devangtomar/vscode-diverse-dye/compare/v0.0.3...HEAD
 
-## [1.0.0] - 2023-04-29
+## [0.0.10] - 2023-04-29
 
 ### Added
 
@@ -40,4 +40,9 @@ All notable changes to this project will be documented in this file.
 
 - Updated the README with more details about the extension.
 
-[Unreleased]: https://github.com/devangtomar/vscode-diverse-dye/compare/v0.0.10...HEAD
+
+## [1.0.0] - 2023-04-29
+
+### Added
+
+- Adding GitHub action for publishing the extension on every push to main.

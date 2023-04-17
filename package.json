@@ -37,7 +37,7 @@
     "email": "devangtomar123gmail.com"
   },
   "publisher": "DevangTomar",
-  "version": "0.0.10",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.33.0"
   },
