@@ -145,6 +145,11 @@
         "label": "Diverse Dye - Arabian theme",
         "uiTheme": "vs",
         "path": "./themes/arabian-theme.json"
+      },
+      {
+        "label": "Diverse Dye - Mountain theme",
+        "uiTheme": "vs",
+        "path": "./themes/mountain-theme.json"
       }
     ]
   },
