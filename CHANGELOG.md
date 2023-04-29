@@ -29,3 +29,15 @@ All notable changes to this project will be documented in this file.
 - Updated the README with more details about the extension.
 
 [Unreleased]: https://github.com/devangtomar/vscode-diverse-dye/compare/v0.0.3...HEAD
+
+## [1.0.0] - 2023-04-29
+
+### Added
+
+- Added Mountain theme.
+
+### Changed
+
+- Updated the README with more details about the extension.
+
+[Unreleased]: https://github.com/devangtomar/vscode-diverse-dye/compare/v0.0.10...HEAD
