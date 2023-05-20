@@ -92,6 +92,11 @@
         "path": "./themes/celestial-charm-theme.json"
       },
       {
+        "label": "Diverse Dye - Darko",
+        "uiTheme": "vs",
+        "path": "./themes/darko-theme.json"
+      },
+      {
         "label": "Diverse Dye - Hot Pink",
         "uiTheme": "vs",
         "path": "./themes/hot-pink-theme.json"
