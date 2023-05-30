@@ -1,0 +1,25 @@
+name: DependantBot Workflow
+on:
+  schedule:
+  - cron: "0 0 * * 0" # Run every Sunday at midnight UTC
+
+jobs:
+  dependant-bot:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: "16.5.x"
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Lint code
+      run: npm run lint
+
+    - name: Upgrade npm packages
+      run: npm update
