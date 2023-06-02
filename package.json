@@ -102,6 +102,11 @@
         "path": "./themes/hot-pink-theme.json"
       },
       {
+        "label": "Diverse Dye - Hyped Down",
+        "uiTheme": "vs",
+        "path": "./themes/hyped-down.json"
+      },
+      {
         "label": "Diverse Dye - Navy Nights",
         "uiTheme": "vs",
         "path": "./themes/navy-nights-theme.json"
