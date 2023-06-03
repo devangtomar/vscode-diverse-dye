@@ -15,7 +15,11 @@ jobs:
           node-version: "16.5.x"
       - name: Install dependencies for node
         run: npm install
+      - name: Update package version
+        run: |
+          npm version patch
+          echo "::set-output name=new_version::$(node -p "require('./package.json').version")"
       - name: Publishing extension on marketplace
         env:
           VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
-        run: npx vsce publish -p $VSCE_TOKEN
+        run: npx vsce publish -p $VSCE_TOKEN --packagePath=.
