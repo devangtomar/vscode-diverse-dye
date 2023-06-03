@@ -26,6 +26,7 @@ Inject a splash of color into your coding with Diverse Dye! 🎉🎨💻
 </br>
 
 [![Download](https://img.shields.io/static/v1.svg?label=Download&message=VS%20Code&style=for-the-badge&labelColor=000000&color=a568f9)](https://code.visualstudio.com/download)
+
 </div>
 
 ---
