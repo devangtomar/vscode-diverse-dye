@@ -1,0 +1,10 @@
+name-template: "Changelog for {version}"
+tag-template: "v{version}"
+categories:
+  - title: "Bug Fixes"
+    label: "bug"
+  - title: "New Features"
+    label: "feature"
+  - title: "Enhancements"
+    label: "enhancement"
+change-template: "- {message} ({author})"
