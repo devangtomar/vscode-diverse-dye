@@ -18,11 +18,11 @@ jobs:
       - name: Install dependencies for node
         run: npm install
 
-      - name: Generate Changelog
-        uses: release-drafter/release-drafter@v5
-        with:
-          config-path: .github/release-drafter.yml
-          token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Generate Changelog
+      #   uses: release-drafter/release-drafter@v5
+      #   with:
+      #     config-path: .github/release-drafter.yml
+      #     token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publishing extension on marketplace
         env:
